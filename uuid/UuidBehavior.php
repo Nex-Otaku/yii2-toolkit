@@ -3,7 +3,7 @@
 namespace nexotaku\toolkit\uuid;
 
 use yii\behaviors\AttributeBehavior;
-use common\helpers\uuid;
+use nexotaku\toolkit\uuid\uuid;
 use yii\db\BaseActiveRecord;
 
 /**
