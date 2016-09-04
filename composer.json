@@ -1,0 +1,21 @@
+{
+    "name": "nex-otaku/yii2-toolkit",
+    "description": "Yii2 typical commercial app infrastructure: soft-delete, UUID, etc.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nex Otaku",
+            "email": "nex@otaku.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "nexotaku\\toolkit\\": ""
+        }
+    }
+}
