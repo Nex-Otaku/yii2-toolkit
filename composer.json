@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "p2made/yii2-p2y2-things": "^1.11"
     },
     "autoload": {
         "psr-4": {
