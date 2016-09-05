@@ -1,6 +1,6 @@
 <?php
 
-namespace nexotaku\toolkit\uuid;
+namespace nexotaku\toolkit\behaviors;
 
 use yii\behaviors\AttributeBehavior;
 use nexotaku\toolkit\uuid\uuid;
