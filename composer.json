@@ -11,19 +11,11 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-        "p2made/yii2-p2y2-things": "dev-last-composer"
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
             "nexotaku\\toolkit\\": ""
         }
-    },
-    "repositories":
-    [
-        {
-            "type": "vcs",
-            "url": "https://github.com/nex-otaku/yii2-p2y2-things"
-        }
-    ]
+    }
 }
