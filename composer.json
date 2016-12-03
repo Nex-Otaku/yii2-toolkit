@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nexotaku\\toolkit\\": ""
+            "nex_otaku\\toolkit\\": ""
         }
     }
 }

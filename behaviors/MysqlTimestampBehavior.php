@@ -1,6 +1,6 @@
 <?php
 
-namespace nexotaku\toolkit\behaviors;
+namespace nex_otaku\toolkit\behaviors;
 
 use yii\behaviors\TimestampBehavior;
 use yii\db\Expression;

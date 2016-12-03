@@ -1,6 +1,6 @@
 <?php
 
-namespace nexotaku\toolkit\helpers;
+namespace nex_otaku\toolkit\helpers;
 
 use Yii;
 
